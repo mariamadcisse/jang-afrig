@@ -1,2 +1,2 @@
 # jang-afrig
-Quiz géographique sur le 54  pays africains
+Quiz géographique sur les 54  pays africains
